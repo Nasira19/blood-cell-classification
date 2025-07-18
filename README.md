@@ -1,4 +1,4 @@
-# Blood Cell Classification using MobileNetV2
+# hematovision: advanced blood cell classification using transfer learning
 
 This project classifies blood cell images (Neutrophil, Monocyte, Eosinophil, Lymphocyte) using deep learning with transfer learning (MobileNetV2).
 
